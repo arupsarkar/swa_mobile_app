@@ -1,7 +1,8 @@
 DerivedData
 project.xcworkspace
 *.iml
-*.xcworkspace/
+#commented on 02/28/2024
+#*.xcworkspace/
 *~
 .DS_Store
 .github/
@@ -20,7 +21,8 @@ instrumentation/
 junit-reports/
 local.properties
 node_modules/
-mobile_sdk/
+#commented on 02/28/2024
+#mobile_sdk/
 proguard-project.txt
 xcuserdata
 package-lock.json
