@@ -1,0 +1,14 @@
+{
+  "soups": [
+    {
+      "soupName": "Account",
+      "indexes": [
+        { "path": "Id", "type": "string"},
+        { "path": "Name", "type": "string"},
+        { "path": "Industry", "type": "string"},
+        { "path": "Phone", "type": "string"},
+        { "path": "__local__", "type": "string"}
+      ]
+    }
+  ]
+}
